@@ -1,0 +1,73 @@
+﻿CAT2 type,CAT2 OppVerhouding,CAT hoogte,CAT perceelopp,Count of id,vergroot20,verkleind20,neutraal20,Average of dVol vergroten,Average of dVol verkleinen
+1_landbouw,1_onbebouwd,1_heel laag,1_heel klein,144,3,0,141,11.874506944444445,0
+2_uitbreidingsgebied,1_onbebouwd,1_heel laag,1_heel klein,32,1,0,31,50.223590625,0
+3_ander,1_onbebouwd,1_heel laag,1_heel klein,768,73,0,695,53.16644205859376,0
+1_landbouw,1_onbebouwd,1_heel laag,2_klein,140,4,0,136,5.806978571428571,0
+2_uitbreidingsgebied,1_onbebouwd,1_heel laag,2_klein,26,2,0,24,15.214922999999999,0
+3_ander,1_onbebouwd,1_heel laag,2_klein,330,33,0,297,73.80254168787879,0
+1_landbouw,1_onbebouwd,1_heel laag,3_middel,371,3,0,368,11.778692749326146,0
+2_uitbreidingsgebied,1_onbebouwd,1_heel laag,3_middel,33,1,0,32,5.098484848484849,0
+3_ander,1_onbebouwd,1_heel laag,3_middel,380,34,0,346,132.5320270921052,0
+1_landbouw,1_onbebouwd,1_heel laag,4_groot,1628,6,0,1622,1.6729035810810813,0
+2_uitbreidingsgebied,1_onbebouwd,1_heel laag,4_groot,41,4,0,37,115.59682924390242,0
+3_ander,1_onbebouwd,1_heel laag,4_groot,337,11,0,326,98.06337379821959,0
+1_landbouw,1_onbebouwd,1_heel laag,5_heel groot,1635,3,0,1632,0.524274,0
+2_uitbreidingsgebied,1_onbebouwd,1_heel laag,5_heel groot,32,2,0,30,114.082745625,0
+3_ander,1_onbebouwd,1_heel laag,5_heel groot,194,3,0,191,98.75381443298969,0
+2_uitbreidingsgebied,2_bebouwd,1_heel laag,1_heel klein,2,2,0,0,276.4770085,0
+3_ander,2_bebouwd,1_heel laag,1_heel klein,73,70,0,3,341.609632958904,0
+1_landbouw,2_bebouwd,1_heel laag,2_klein,3,3,0,0,429.013,0
+2_uitbreidingsgebied,2_bebouwd,1_heel laag,2_klein,8,8,0,0,777.7778880000001,0
+3_ander,2_bebouwd,1_heel laag,2_klein,93,90,0,3,713.4235198494625,0
+1_landbouw,2_bebouwd,1_heel laag,3_middel,9,9,0,0,1107.4203115555556,0
+2_uitbreidingsgebied,2_bebouwd,1_heel laag,3_middel,18,18,0,0,974.1572074999999,0
+3_ander,2_bebouwd,1_heel laag,3_middel,80,75,0,5,955.031721275,0
+1_landbouw,2_bebouwd,1_heel laag,4_groot,25,23,0,2,212.8753608,0
+2_uitbreidingsgebied,2_bebouwd,1_heel laag,4_groot,8,8,0,0,675.0658737499999,0
+3_ander,2_bebouwd,1_heel laag,4_groot,38,36,0,2,1251.0978553157897,0
+1_landbouw,2_bebouwd,1_heel laag,5_heel groot,26,21,0,5,1489.1516154230774,0
+2_uitbreidingsgebied,2_bebouwd,1_heel laag,5_heel groot,3,2,0,1,133.23333666666667,0
+3_ander,2_bebouwd,1_heel laag,5_heel groot,11,11,0,0,4234.146545818182,0
+1_landbouw,2_bebouwd,2_laag,1_heel klein,7,3,0,4,157.27527428571426,0
+2_uitbreidingsgebied,2_bebouwd,2_laag,1_heel klein,12,1,2,9,3.2272499999999997,-21.03691666666667
+3_ander,2_bebouwd,2_laag,1_heel klein,443,251,30,162,229.17997549209943,-6.037433422121895
+1_landbouw,2_bebouwd,2_laag,2_klein,14,9,2,3,231.85456542857148,-38.93527857142856
+2_uitbreidingsgebied,2_bebouwd,2_laag,2_klein,38,28,2,8,447.09861499999994,-4.585394736842112
+3_ander,2_bebouwd,2_laag,2_klein,447,348,28,71,464.97216919015665,-10.928172111856824
+1_landbouw,2_bebouwd,2_laag,3_middel,83,44,10,29,270.94479987951814,-42.54356192771084
+2_uitbreidingsgebied,2_bebouwd,2_laag,3_middel,52,35,3,14,424.4632834038461,-4.324378846153844
+3_ander,2_bebouwd,2_laag,3_middel,498,347,66,85,460.6001398714857,-14.258191016064256
+1_landbouw,2_bebouwd,2_laag,4_groot,98,39,10,49,272.58858434693883,-13.025272500000005
+2_uitbreidingsgebied,2_bebouwd,2_laag,4_groot,24,11,7,6,316.61100995833334,-292.415499375
+3_ander,2_bebouwd,2_laag,4_groot,178,98,26,54,927.7212505674155,-17.487599061797766
+1_landbouw,2_bebouwd,2_laag,5_heel groot,80,20,18,42,460.5859269125,-22.689095175
+2_uitbreidingsgebied,2_bebouwd,2_laag,5_heel groot,4,1,3,0,13.4814985,-58.72474249999996
+3_ander,2_bebouwd,2_laag,5_heel groot,49,25,10,14,4284.421517265308,-69.81726979591835
+1_landbouw,2_bebouwd,3_middel,1_heel klein,10,2,2,6,36.647407,-104.85520000000001
+2_uitbreidingsgebied,2_bebouwd,3_middel,1_heel klein,65,9,6,50,6.181892153846153,-18.716924769230776
+3_ander,2_bebouwd,3_middel,1_heel klein,730,319,108,303,68.79365132876714,-24.63401203561645
+1_landbouw,2_bebouwd,3_middel,2_klein,20,7,5,8,125.3443605,-41.71020600000003
+2_uitbreidingsgebied,2_bebouwd,3_middel,2_klein,172,74,18,80,41.77144476744184,-7.542149999999999
+3_ander,2_bebouwd,3_middel,2_klein,937,421,161,355,82.15759810032016,-24.83918528068304
+1_landbouw,2_bebouwd,3_middel,3_middel,113,48,40,25,92.6427290265487,-58.81952159292034
+2_uitbreidingsgebied,2_bebouwd,3_middel,3_middel,300,150,49,101,49.018432999999995,-20.688284933333343
+3_ander,2_bebouwd,3_middel,3_middel,881,382,206,293,86.31256853575489,-57.21829370034051
+1_landbouw,2_bebouwd,3_middel,4_groot,110,48,36,26,147.36789690909097,-69.81030548181816
+2_uitbreidingsgebied,2_bebouwd,3_middel,4_groot,21,9,6,6,125.4085404761905,-32.13409047619049
+3_ander,2_bebouwd,3_middel,4_groot,297,136,112,49,213.3889698653199,-132.81269663299665
+1_landbouw,2_bebouwd,3_middel,5_heel groot,22,13,7,2,1054.2359863636366,-151.45994090909105
+3_ander,2_bebouwd,3_middel,5_heel groot,55,27,24,4,2973.997812727272,-474.5121727272723
+1_landbouw,2_bebouwd,4_hoog,1_heel klein,4,1,2,1,12.610475000000008,-147.60147499999997
+2_uitbreidingsgebied,2_bebouwd,4_hoog,1_heel klein,26,2,3,21,2.97138307692308,-5.690735769230776
+3_ander,2_bebouwd,4_hoog,1_heel klein,1187,316,280,591,28.479456090985696,-42.39693997472621
+1_landbouw,2_bebouwd,4_hoog,2_klein,2,1,0,1,10.727499999999964,0
+2_uitbreidingsgebied,2_bebouwd,4_hoog,2_klein,169,50,30,89,25.625786804733735,-18.102801715976327
+3_ander,2_bebouwd,4_hoog,2_klein,823,240,228,355,40.75433122721748,-78.33598233292835
+1_landbouw,2_bebouwd,4_hoog,3_middel,18,1,11,6,2.032052777777772,-201.31971833333333
+2_uitbreidingsgebied,2_bebouwd,4_hoog,3_middel,98,36,28,34,51.59707591836735,-36.8554175510204
+3_ander,2_bebouwd,4_hoog,3_middel,393,117,152,124,102.99818167938935,-202.9136058778626
+1_landbouw,2_bebouwd,4_hoog,4_groot,19,3,10,6,10.518694736842079,-159.40912631578942
+2_uitbreidingsgebied,2_bebouwd,4_hoog,4_groot,6,2,3,1,14.981816666666683,-153.9905000000001
+3_ander,2_bebouwd,4_hoog,4_groot,87,33,41,13,335.61574137931035,-566.6141965057473
+1_landbouw,2_bebouwd,4_hoog,5_heel groot,10,4,6,0,1211.0751799999996,-378.1217839999998
+3_ander,2_bebouwd,4_hoog,5_heel groot,41,16,22,3,8351.922753658535,-2765.2050487804872
