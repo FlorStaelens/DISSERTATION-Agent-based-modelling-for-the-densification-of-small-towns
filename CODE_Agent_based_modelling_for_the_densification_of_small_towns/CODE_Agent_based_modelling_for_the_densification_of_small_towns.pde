@@ -31,6 +31,7 @@ float panSpeed = 50, zoomSpeed = 2;
 Perceel[] percelen;
 boolean decision = false, simsChosen = false;
 String municipality;
+int NumberOfSimulations = 1;
 
 //simulation metrics
 int aantalPercelen =0, simulationsDone = 0;
